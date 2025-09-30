@@ -939,6 +939,7 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## 💼 Jobs
+- [Algora](https://algora.io) : Open source tech recruiting platform that connects prolific open source maintainers and contributors with their next jobs through bounties and direct hiring.
 - [Wellfound](https://wellfound.com/) : Wellfound (formerly known as Angellist) is a 
     website for startups, angel investors, and job-seekers 
     looking to work at startups. 
