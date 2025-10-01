@@ -700,6 +700,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Speaking io](https://speaking.io/) : Tips for public speaking
 - [Javascript.info](https://javascript.info/) : The Modern JavaScript Tutorial
 - [Building a Web App in Python with Streamlit](https://medium.com/@avikumart_/a-complete-guide-to-building-streamlit-data-web-apps-with-code-examples-6cc1e42b2397) : An article that provides a clear, project-based introduction to Streamlit.
+- [Developing a ML Model with FastAPI and React](https://testdriven.io/blog/fastapi-react/) : A comprehensive tutorial on building and deploying a machine learning model with a Python backend and a web-based frontend.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
