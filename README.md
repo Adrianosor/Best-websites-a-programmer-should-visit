@@ -244,7 +244,9 @@ When learning CS, there are some useful sites you must know to get always inform
 - [regex101](https://regex101.com) : Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript
 - [regexr](https://regexr.com) : Another online tool to learn, build & test Regular Expressions
 - [Ray.so](https://www.ray.so/): Beautiful code snippet screenshots.
+- [Raycast](https://raycast.com) : Mac app launcher and productivity tool with AI chat, snippets, and workflow automation.
 - [Prodia AI Image API](https://prodia.com/) : API for open sourced image models
+- [Pieces for Developers](https://pieces.app) : Collection of ready-to-use code snippets and tools for developers.
 - [Wit AI](https://wit.ai) : Natural Language for Developers
 - [SaaS Design](https://www.saasdesign.io/free-figma-templates) : Collection of open source Figma UI design templates for your next project.
 - [Seymour](https://harc.github.io/seymour-live2017) : Live Programming for the Classroom
@@ -268,6 +270,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [KeyBr (Typing Practice)](https://www.keybr.com/): Easy to use typing practice app.
 - [Svgator](https://www.svgator.com/): Animate svg graphically. Its like a video editor but for svg. 
 - [Webhook.site](https://webhook.site/): Useful tool for test and debug webhooks.
+- [Warp Terminal](https://warp.dev) : Modern terminal integrating AI command search, suggestions, and collaborative workflows.
 - [kandi](https://kandi.openweaver.com/): Jumpstart Application Development by finding the right Open Source resource
 - [Svix Play](https://play.svix.com/): Webhook tester & debugger. Test webhooks directly from your test suite.
 - [Typeracer](https://play.typeracer.com/): Increase your typing speed while racing against others.
@@ -451,6 +454,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [fast.ai](http://course.fast.ai) : Free practical *deep learning* course for coders without grad-level maths!
 - [TypeDB](https://vaticle.com) : A Strongly-typed Database
 - [Robots that learn](https://openai.com/research/robots-that-learn) : Robots that Learn
+- [Phind](https://phind.com) : AI-powered search engine combining Stack Overflow knowledge and GPT for coding questions
 - [Unsupervised Sentiment Neuron](https://openai.com/research/unsupervised-sentiment-neuron) : Unsupervised Sentiment Neuron
 - [What's the difference between AI- DP and ML?](https://blogs.nvidia.com/blog/2016/07/29/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/) : Difference artificial intelligence, machine-learning, deep-learning-ai
 - [TensorFlow](https://www.tensorflow.org) : An open-source software library for Machine Intelligence
@@ -842,6 +846,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Geek Land](https://avidullu.wordpress.com) : My precious collectibles
 - [HackerEarth Blog](http://blog.hackerearth.com) : The HackerEarth blog
 - [IT Enthusiast](http://rodiongork.tumblr.com) : IT Enthusiast
+- [I Programmer](http://www.i-programmer.info/) : Programming news, tutorials, and best practice insights from experienced developers.
 - [Joel on Software](https://www.joelonsoftware.com) : The blog of the CEO of StackOverflow
 - [Late Developer](https://latedev.wordpress.com) :  Random thoughts of an old C++ guy
 - [Linux Forums](https://www.linux.org/forums) : A Friendly Linux Forum
@@ -902,9 +907,11 @@ When learning CS, there are some useful sites you must know to get always inform
 
 ## 🔓 Open Source Websites
 - [N-O-D-E](https://n-o-d-e.net/) : Everything open-source and hacker culture - news, zines, and projects
+- [NocoDB](https://nocodb.com) : Open-source tool to convert databases into spreadsheet-like interfaces.
 - [Open Hatch](https://openhatch.org) : OpenHatch is a non-profit dedicated to matching prospective free software contributors with communities, tools, and education.
 - [Source Forge](https://sourceforge.net) : SourceForge hosts nearly 280,000 projects (at last count). It serves more than 2 million downloads a day and includes apps and tools in a wide variety of categories.
 - [Google Code](https://code.google.com/projecthosting) : Google offers free hosting for open source projects using the Subversion or Mercurial version control systems. It offers 2 GB of storage, integrated code review tools, a wiki, and an issue tracker. The Google Code site also provides links to Google's many publicly available APIs and other developer tools.
+- [Hanko](https://hanko.io) : Open-source authentication and identity management solution.
 - [Launch Pad](https://launchpad.net) : Maintained by Canonical, LaunchPad is particularly targeted at projects that run on Ubuntu. It provides hosting for more than 21,000 projects that use the Bazaar version control system.
 - [Google Open Source](https://opensource.google.com) : Google Open Source
 - [Red Hat Developer](https://developers.redhat.com) : The world's leading provider of open source solutions
@@ -916,12 +923,15 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Media Wiki](https://www.mediawiki.org/wiki/MediaWiki) : MediaWiki is a free software open source wiki package written in PHP, originally for use on Wikipedia. It is now also used by several other projects of the non-profit Wikimedia Foundation and by many other wikis, including this website, the home of MediaWiki.
 - [Code Curiosity](https://codecuriosity.org) : CodeCuriosity is a platform that encourages contributions to open source. Everyone is rewarded for their efforts, no matter how big or small they are.
 - [Code Triage](https://www.codetriage.com) : Help out your favorite open-source projects and become a better developer while doing it.
+- [Cerbos](https://cerbos.dev) : Open-source authorization platform for managing fine-grained permissions.
 - [Issue Hub](http://issuehub.io) : Contribute to Open Source. Search issue labels to find the right project for you
 - [Up for Grabs](http://up-for-grabs.net) : This is a list of projects which have curated tasks specifically for new contributors. These are a great way to get started with a project or to help share the load of working on open source projects.
 - [First Timers Only](http://www.firsttimersonly.com) : Contributing to open source for the first time can be scary and a little overwhelming. Perhaps you’re a Code Newbie or maybe you’ve been coding for a while but haven’t found a project you felt comfortable contributing to.
 - [Your First PR](http://yourfirstpr.github.io) : Your First PR helps you get started contributing to Open Source by showcasing great starter issues on GitHub and elsewhere.
 - [Awesome First PR Opportunities](https://github.com/mungell/awesome-for-beginners) : An awesome repository for finding beginner-friendly projects in different programming languages.
+- [AppFlowy](https://appflowy.io) : Open-source alternative to Notion for note-taking and task management.
 - [EddieHub Open source community](https://github.com/EddieHubCommunity) : A Supportive community for people who are interested or already contributing in Open source.
+- [Excalidraw](https://excalidraw.com) : Collaborative whiteboard for visualizing ideas and designing diagrams.
 - [MLH Fellowship prgramme](https://fellowship.mlh.io/):A fully remote, 12-week internship alternative where participants earn a stipend and learn to collaborate on real open source projects with peers and engineers from top companies.
 
 <div align="right">
