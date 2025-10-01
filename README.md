@@ -926,6 +926,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Your First PR](http://yourfirstpr.github.io) : Your First PR helps you get started contributing to Open Source by showcasing great starter issues on GitHub and elsewhere.
 - [Awesome First PR Opportunities](https://github.com/mungell/awesome-for-beginners) : An awesome repository for finding beginner-friendly projects in different programming languages.
 - [EddieHub Open source community](https://github.com/EddieHubCommunity) : A Supportive community for people who are interested or already contributing in Open source.
+- [Excalidraw](https://excalidraw.com) : Collaborative whiteboard for visualizing ideas and designing diagrams.
 - [MLH Fellowship prgramme](https://fellowship.mlh.io/):A fully remote, 12-week internship alternative where participants earn a stipend and learn to collaborate on real open source projects with peers and engineers from top companies.
 
 <div align="right">
