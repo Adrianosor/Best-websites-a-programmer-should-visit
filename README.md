@@ -244,7 +244,9 @@ When learning CS, there are some useful sites you must know to get always inform
 - [regex101](https://regex101.com) : Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript
 - [regexr](https://regexr.com) : Another online tool to learn, build & test Regular Expressions
 - [Ray.so](https://www.ray.so/): Beautiful code snippet screenshots.
+- [Raycast](https://raycast.com) : Mac app launcher and productivity tool with AI chat, snippets, and workflow automation.
 - [Prodia AI Image API](https://prodia.com/) : API for open sourced image models
+- [Pieces for Developers](https://pieces.app) : Collection of ready-to-use code snippets and tools for developers.
 - [Wit AI](https://wit.ai) : Natural Language for Developers
 - [SaaS Design](https://www.saasdesign.io/free-figma-templates) : Collection of open source Figma UI design templates for your next project.
 - [Seymour](https://harc.github.io/seymour-live2017) : Live Programming for the Classroom
@@ -268,6 +270,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [KeyBr (Typing Practice)](https://www.keybr.com/): Easy to use typing practice app.
 - [Svgator](https://www.svgator.com/): Animate svg graphically. Its like a video editor but for svg. 
 - [Webhook.site](https://webhook.site/): Useful tool for test and debug webhooks.
+- [Warp Terminal](https://warp.dev) : Modern terminal integrating AI command search, suggestions, and collaborative workflows.
 - [kandi](https://kandi.openweaver.com/): Jumpstart Application Development by finding the right Open Source resource
 - [Svix Play](https://play.svix.com/): Webhook tester & debugger. Test webhooks directly from your test suite.
 - [Typeracer](https://play.typeracer.com/): Increase your typing speed while racing against others.
@@ -451,6 +454,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [fast.ai](http://course.fast.ai) : Free practical *deep learning* course for coders without grad-level maths!
 - [TypeDB](https://vaticle.com) : A Strongly-typed Database
 - [Robots that learn](https://openai.com/research/robots-that-learn) : Robots that Learn
+- [Phind](https://phind.com) : AI-powered search engine combining Stack Overflow knowledge and GPT for coding questions
 - [Unsupervised Sentiment Neuron](https://openai.com/research/unsupervised-sentiment-neuron) : Unsupervised Sentiment Neuron
 - [What's the difference between AI- DP and ML?](https://blogs.nvidia.com/blog/2016/07/29/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/) : Difference artificial intelligence, machine-learning, deep-learning-ai
 - [TensorFlow](https://www.tensorflow.org) : An open-source software library for Machine Intelligence
@@ -922,6 +926,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Your First PR](http://yourfirstpr.github.io) : Your First PR helps you get started contributing to Open Source by showcasing great starter issues on GitHub and elsewhere.
 - [Awesome First PR Opportunities](https://github.com/mungell/awesome-for-beginners) : An awesome repository for finding beginner-friendly projects in different programming languages.
 - [EddieHub Open source community](https://github.com/EddieHubCommunity) : A Supportive community for people who are interested or already contributing in Open source.
+- [Excalidraw](https://excalidraw.com) : Collaborative whiteboard for visualizing ideas and designing diagrams.
 - [MLH Fellowship prgramme](https://fellowship.mlh.io/):A fully remote, 12-week internship alternative where participants earn a stipend and learn to collaborate on real open source projects with peers and engineers from top companies.
 
 <div align="right">
