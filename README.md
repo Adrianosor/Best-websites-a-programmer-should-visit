@@ -269,6 +269,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [KeyBr (Typing Practice)](https://www.keybr.com/): Easy to use typing practice app.
 - [Svgator](https://www.svgator.com/): Animate svg graphically. Its like a video editor but for svg. 
 - [Webhook.site](https://webhook.site/): Useful tool for test and debug webhooks.
+- [Warp Terminal](https://warp.dev) : Modern terminal integrating AI command search, suggestions, and collaborative workflows.
 - [kandi](https://kandi.openweaver.com/): Jumpstart Application Development by finding the right Open Source resource
 - [Svix Play](https://play.svix.com/): Webhook tester & debugger. Test webhooks directly from your test suite.
 - [Typeracer](https://play.typeracer.com/): Increase your typing speed while racing against others.
