@@ -246,6 +246,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Ray.so](https://www.ray.so/): Beautiful code snippet screenshots.
 - [Raycast](https://raycast.com) : Mac app launcher and productivity tool with AI chat, snippets, and workflow automation.
 - [Prodia AI Image API](https://prodia.com/) : API for open sourced image models
+- [Pieces for Developers](https://pieces.app) : Collection of ready-to-use code snippets and tools for developers.
 - [Wit AI](https://wit.ai) : Natural Language for Developers
 - [SaaS Design](https://www.saasdesign.io/free-figma-templates) : Collection of open source Figma UI design templates for your next project.
 - [Seymour](https://harc.github.io/seymour-live2017) : Live Programming for the Classroom
