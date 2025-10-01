@@ -699,7 +699,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Explain Shell](https://explainshell.com/): Match command-line arguments to their help text
 - [Speaking io](https://speaking.io/) : Tips for public speaking
 - [Javascript.info](https://javascript.info/) : The Modern JavaScript Tutorial
-- [How to Build a Web App in Python with Streamlit](https://www.freecodecamp.org/news/how-to-build-a-web-app-in-python-with-streamlit-and-pandas/) : An article from freeCodeCamp that provides a clear, project-based introduction to Streamlit.
+- [Building a Web App in Python with Streamlit](https://medium.com/@avikumart_/a-complete-guide-to-building-streamlit-data-web-apps-with-code-examples-6cc1e42b2397) : An article that provides a clear, project-based introduction to Streamlit.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
