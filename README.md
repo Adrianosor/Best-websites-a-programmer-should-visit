@@ -846,6 +846,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Geek Land](https://avidullu.wordpress.com) : My precious collectibles
 - [HackerEarth Blog](http://blog.hackerearth.com) : The HackerEarth blog
 - [IT Enthusiast](http://rodiongork.tumblr.com) : IT Enthusiast
+- [I Programmer](http://www.i-programmer.info/) : Programming news, tutorials, and best practice insights from experienced developers.
 - [Joel on Software](https://www.joelonsoftware.com) : The blog of the CEO of StackOverflow
 - [Late Developer](https://latedev.wordpress.com) :  Random thoughts of an old C++ guy
 - [Linux Forums](https://www.linux.org/forums) : A Friendly Linux Forum
