@@ -557,6 +557,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg): Web development tutorials
 - [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw): Tutorials based on Web development from basic to advanced.
 - [Take You Forward](https://www.youtube.com/c/takeUforward): Tutorials on Data structures and Algorithms in Java and C++.
+- [Krish Naik](https://www.youtube.com/@krishnaik06): Tutorials explaining various topics on machine learning, deep learning and AI with many real-world problem scenarios. 
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -698,6 +699,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Explain Shell](https://explainshell.com/): Match command-line arguments to their help text
 - [Speaking io](https://speaking.io/) : Tips for public speaking
 - [Javascript.info](https://javascript.info/) : The Modern JavaScript Tutorial
+- [Building a Web App in Python with Streamlit](https://medium.com/@avikumart_/a-complete-guide-to-building-streamlit-data-web-apps-with-code-examples-6cc1e42b2397) : An article that provides a clear, project-based introduction to Streamlit.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
