@@ -140,7 +140,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Scaler](https://www.scaler.com/topics/) : A curated interactive space for aspiring programmers to learn and master their coding skills. Also help in job interview.
 - [SQL Zoo](https://sqlzoo.net/wiki/SQL_Tutorial) : Learn SQL interactively in stages, from basic queries to complex operations.
 - [SQLTest.online](https://sqltest.online) : Boost Your SQL Proficiency with Challenging Problems.
-
+- [30 second of Code](https://www.30secondsofcode.org/) : A collection of short, reusable code snippets in JavaScript, CSS, Python, and more, with explanations—ideal for quick learning and reference.
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
@@ -273,6 +273,9 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Typeracer](https://play.typeracer.com/): Increase your typing speed while racing against others.
 - [Typerush](https://www.typerush.com/): Increase typing speed while racing.
 - [IT-Tools](https://it-tools.tech/): Collection of handy online tools for developers.
+- [Snappify](https://snappify.com/): Create beautiful, shareable code presentations and snippets with animations.
+
+
 
 
 <div align="right">
