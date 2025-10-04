@@ -273,6 +273,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Typeracer](https://play.typeracer.com/): Increase your typing speed while racing against others.
 - [Typerush](https://www.typerush.com/): Increase typing speed while racing.
 - [IT-Tools](https://it-tools.tech/): Collection of handy online tools for developers.
+- [httpbin](https://httpbin.org/): Simple HTTP request & response service for testing clients.
 
 
 <div align="right">
