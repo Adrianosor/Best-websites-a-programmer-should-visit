@@ -273,7 +273,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Typeracer](https://play.typeracer.com/): Increase your typing speed while racing against others.
 - [Typerush](https://www.typerush.com/): Increase typing speed while racing.
 - [IT-Tools](https://it-tools.tech/): Collection of handy online tools for developers.
-
+- [Quicktype](https://quicktype.io/): Generate types and converters from JSON for many languages
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
