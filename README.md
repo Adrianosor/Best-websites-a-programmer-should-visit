@@ -62,7 +62,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Coderanch](https://coderanch.com/) : A friendly place for programming greenhorns. Jump straight into any of our topics and light hearted discussions. Ranging from Java, Databases, Android, Programmer certification, Programming jobs and much more...
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#-index">↥ Back To Top</a></b>
 </div>
 
 ## 📰 News
@@ -98,7 +98,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Hackaday](https://hackaday.com) : Hacking is an art form that uses something in a way in which it was not originally intended.
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#-index">↥ Back To Top</a></b>
 </div>
 
 ## 📚 Magazines
@@ -107,7 +107,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [LWN](https://lwn.net) : Weekly news coverage of opensource technologies, programming, etc. ( Originally Linux Weekly News).
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#-index">↥ Back To Top</a></b>
 </div>
 
 ## 👶 Coding practice for beginners
@@ -142,7 +142,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [SQLTest.online](https://sqltest.online) : Boost Your SQL Proficiency with Challenging Problems.
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#-index">↥ Back To Top</a></b>
 </div>
 
 ## 💰 CryptoCurrency
@@ -160,7 +160,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Mempool](https://mempool.space): Bitcoin block explorer, mempool visualizer, transaction tracker, and fee estimator 
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#-index">↥ Back To Top</a></b>
 </div>
 
 ## 💡 For those who want to start a small project but can't find the ideas
@@ -173,7 +173,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) : A Collection of application ideas which can be used to improve your coding skills.
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#-index">↥ Back To Top</a></b>
 </div>
 
 ## 🗣️ General Coding advice
@@ -197,7 +197,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [The Open Web Application Security Project (OWASP)](https://www.owasp.org) : OWASP is an open community dedicated to enabling organizations to conceive, develop, acquire, operate, and maintain applications that can be trusted.
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#-index">↥ Back To Top</a></b>
 </div>
 
 ## 🎨 Coding Style
@@ -226,7 +226,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Uber Go Style Guide](https://github.com/uber-go/guide): Uber Go Style Guide
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#-index">↥ Back To Top</a></b>
 </div>
 
 ## 🛠️ General Tools
@@ -276,7 +276,7 @@ When learning CS, there are some useful sites you must know to get always inform
 
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#-index">↥ Back To Top</a></b>
 </div>
 
 ## 🐚 Bash and Shell scripting  
@@ -292,7 +292,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [25 Common Linux Bash Script Examples To Get You Started](https://www.hostinger.in/tutorials/bash-script-example) 
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#-index">↥ Back To Top</a></b>
 </div>
 
 ## 🎤 Interview Preparation
@@ -362,7 +362,7 @@ When learning CS, there are some useful sites you must know to get always inform
 
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#-index">↥ Back To Top</a></b>
 </div>
 
 ## 🎬 Documentaries
@@ -383,7 +383,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [The Internet's Own Boy](https://www.youtube.com/watch?v=9vz06QO3UkQ) : The Story of Aaron Swartz
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#-index">↥ Back To Top</a></b>
 </div>
 
 ## 🎓 MOOCs for learning something new
@@ -402,7 +402,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Pluralsight](https://www.pluralsight.com) : An online learning and workforce development platform that helps businesses and individuals adjust to changing technology.
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#-index">↥ Back To Top</a></b>
 </div>
 
 ## 🧑‍💻 Sites related to your preferred programming language (For me C++)
@@ -443,7 +443,7 @@ When learning CS, there are some useful sites you must know to get always inform
 
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#-index">↥ Back To Top</a></b>
 </div>
 
 ## 🤖 Learn AI
@@ -467,7 +467,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [MLU-EXPLAIN](https://mlu-explain.github.io/) : Machine Learning University (MLU) is an education initiative from Amazon designed for visual explanations of core machine learning concepts.
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#-index">↥ Back To Top</a></b>
 </div>
 
 ## 📢 Seminar, research writing, talks, etc
@@ -479,7 +479,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Lshort](https://tobi.oetiker.ch/lshort/lshort.pdf) : The Not So Short Introduction to LATEX2ε
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#-index">↥ Back To Top</a></b>
 </div>
 
 ## 📦 Everything in one place
@@ -506,7 +506,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Library or micro code solutions](https://onelinerhub.com/) : Community library of micro code pieces for popular issues.
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#-index">↥ Back To Top</a></b>
 </div>
 
 ## 📺 YouTube Channels
@@ -559,7 +559,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Take You Forward](https://www.youtube.com/c/takeUforward): Tutorials on Data structures and Algorithms in Java and C++.
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#-index">↥ Back To Top</a></b>
 </div>
 
 ## ✍️ Good Articles
@@ -591,7 +591,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [How I got TensorFlow Developer Certified](https://www.mrdbourke.com/how-i-got-tensorflow-developer-certified/) : Step By Step guide to pass Tensorflow Developer Certification
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#-index">↥ Back To Top</a></b>
 </div>
 
 ## 🎧 Podcasts
@@ -622,7 +622,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Python bytes](https://pythonbytes.fm) Podcast to learn about the latest happenings and trends in Python
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#-index">↥ Back To Top</a></b>
 </div>
 
 ## 🔄 Building a Simple Compiler/Interpreter
@@ -639,7 +639,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Writing a C Compiler](https://norasandler.com/2017/11/29/Write-a-Compiler.html) : The first post in a series by Nora Sandler on writing your own C compiler
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#-index">↥ Back To Top</a></b>
 </div>
 
 ## 🧑‍🏫 Tutorials
@@ -700,7 +700,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Javascript.info](https://javascript.info/) : The Modern JavaScript Tutorial
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#-index">↥ Back To Top</a></b>
 </div>
 
 ## 👀 Watch others code
@@ -708,7 +708,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Twitch.tv](https://www.twitch.tv/directory/game/Science%20%26%20Technology) : The programming community of twitch.
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#-index">↥ Back To Top</a></b>
 </div>
 
 ## 🧠 What should a programmer know
@@ -717,7 +717,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [GitLab](https://about.gitlab.com) : An alternative to GitHub that offers free unlimited (private) repositories and unlimited collaborators.
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#-index">↥ Back To Top</a></b>
 </div>
 
 ## ⚔️  Competitive programming
@@ -748,7 +748,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [A2OJ Ladders](https://a2oj.com/Ladders.html) : Practice codeforces problems based on your proficiency and difficulty
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#-index">↥ Back To Top</a></b>
 </div>
 
 ## 📖 Computer Books
@@ -764,7 +764,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [programmingbooks.dev](https://www.programmingbooks.dev) : An Ordered and Curated Reading List for Software Craftsmanship Growth.
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#-index">↥ Back To Top</a></b>
 </div>
 
 ## 🔴 Video Tutorials
@@ -791,7 +791,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Mastering Next.js](https://masteringnextjs.com/) : A free serie of videos to learn Next.js
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#-index">↥ Back To Top</a></b>
 </div>
 
 ## 💻 Online Compiler and Sharing Code snippets
@@ -816,7 +816,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [PHPize.online](https://phpize.online/): Online PHP compiler with SQL support.
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#-index">↥ Back To Top</a></b>
 </div>
 
 ## 📝 Blogs of Developers
@@ -861,7 +861,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [The Net Ninja](https://www.thenetninja.co.uk/): Web development tutorials
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#-index">↥ Back To Top</a></b>
 </div>
 
 ## 🗣️ For improving your English
@@ -873,7 +873,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [AntiMoon Immersion Approach](http://www.antimoon.com/how/howtolearn.htm): Immersion-based learning of English, can be used by people on different levels.
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#-index">↥ Back To Top</a></b>
 </div>
 
 ## 🧘‍♂️ When you get bored from CS related stuff
@@ -897,7 +897,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [lonelyspeck](https://www.lonelyspeck.com/the-milky-way-in-los-angeles-light-pollution/) : Expose to the Right for Astrophotography in Light Pollution – Palos Verdes, Los Angeles, California
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#-index">↥ Back To Top</a></b>
 </div>
 
 ## 🔓 Open Source Websites
@@ -925,7 +925,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [MLH Fellowship prgramme](https://fellowship.mlh.io/):A fully remote, 12-week internship alternative where participants earn a stipend and learn to collaborate on real open source projects with peers and engineers from top companies.
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#-index">↥ Back To Top</a></b>
 </div>
 
 ## 🌱 Internships
@@ -935,7 +935,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [PerfectIntern](https://www.perfectintern.com): Get help finding a paid internship, resume prep, interview prep, and more!
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#-index">↥ Back To Top</a></b>
 </div>
 
 ## 💼 Jobs
@@ -970,7 +970,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [OkJob](https://okjob.io/) : 4 day week job board.
 
 <div align="right">
-  <b><a href="#index">↥ Back To Top</a></b>
+  <b><a href="#-index">↥ Back To Top</a></b>
 </div>
 
 ### 🌟 Special Thanks
