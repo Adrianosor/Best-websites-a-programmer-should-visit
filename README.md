@@ -180,6 +180,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [How to Begin With Competitive Programming](https://www.geeksforgeeks.org/how-to-begin-with-competitive-programming/)
 - [10-ways-to-be-a-better-developer](https://stephenhaunts.files.wordpress.com/2014/04/10-ways-to-be-a-better-developer.png) : Ways to become a better dev!
 - [Code Review Best Practices](https://www.kevinlondon.com/2015/05/05/code-review-best-practices.html) : Kevin London's blog
+- [Contributor Covenant](https://www.contributor-covenant.org/) : A code of conduct for open source and other digital commons communities
 - [Design Patterns](https://sourcemaking.com/design_patterns) : Design Patterns explained in detail with examples.
 - [Game Programming Patterns](http://gameprogrammingpatterns.com/) : Game Programming Patterns is a collection of patterns Robert Nystrom found in games that make code cleaner, easier to understand, and faster
 - [How to become a programmer or the art of Googling well](https://okepi.wordpress.com/2014/08/21/how-to-become-a-programmer-or-the-art-of-googling-well/) : How to become a programmer or the art of Googling well
