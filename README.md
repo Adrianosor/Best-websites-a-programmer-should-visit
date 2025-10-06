@@ -969,6 +969,19 @@ When learning CS, there are some useful sites you must know to get always inform
 - [We Work Remotely](https://weworkremotely.com/) : The largest remote work community in the world.
 - [OkJob](https://okjob.io/) : 4 day week job board.
 
+
+## 💼 Freelancing
+- [Upwork](https://www.upwork.com) : One of the world's largest freelancing platforms connecting businesses with independent professionals across various fields including programming, design, writing, and more.
+- [Fiverr](https://www.fiverr.com) : A global marketplace for digital services where freelancers offer services starting at $5. Great for quick projects and specialized skills.
+- [Freelancer.com](https://www.freelancer.com) : A global crowdsourcing marketplace where employers can hire freelancers to do work in areas such as software development, writing, data entry and design.
+- [Toptal](https://www.toptal.com) : An exclusive network of the top freelance software developers, designers, finance experts, and project managers in the world.
+- [Guru](https://www.guru.com) : A professional freelance marketplace that allows businesses to find, hire, collaborate with, and pay freelancers online.
+- [99designs](https://99designs.com) : A creative marketplace that connects clients with freelance designers for logo design, web design, and other creative projects.
+- [PeoplePerHour](https://www.peopleperhour.com) : A UK-based freelance marketplace that connects businesses with freelance professionals for various projects and services.
+- [Contra](https://contra.com) : A commission-free network for independent professionals, offering a platform to showcase work and connect with clients without platform fees.
+- [FlexJobs](https://www.flexjobs.com) : A job board specializing in remote, part-time, freelance, and flexible jobs across various industries.
+- [SimplyHired Freelance](https://www.simplyhired.com/search?q=freelance) : Features freelance opportunities across multiple industries and skill levels.
+
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
