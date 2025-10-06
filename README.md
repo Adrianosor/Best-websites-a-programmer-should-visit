@@ -4,9 +4,7 @@
     <br>
 </h1>
 
-[![Build Status](https://api.travis-ci.org/sdmg15/Best-websites-a-programmer-should-visit.svg?branch=master)](https://travis-ci.org/sdmg15/Best-websites-a-programmer-should-visit)
-
-# Best-websites-a-programmer-should-visit
+# Best websites a programmer should visit
 Some useful websites for programmers.
 
 When learning CS, there are some useful sites you must know to get always informed to do your technologies even better and learn new things. Here is a non-exhaustive list of some sites you should visit. This list will get updated as soon as I can get another link, but you can also contribute by adding those you know :wink:
@@ -14,41 +12,41 @@ When learning CS, there are some useful sites you must know to get always inform
 **Note** : [Chinese Version](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh)
 
 ## 📖 Index
-<ul>
-<li><a href="#-when-you-get-stuck">When you get stuck</a></li>
-<li><a href="#-news">News</a></li>
-<li><a href="#-magazines">Magazines</a></li>
-<li><a href="#-coding-practice-for-beginners">Coding practice for beginners</a></li>
-<li><a href="#-cryptocurrency">Cryptocurrency</a></li>
-<li><a href="#-for-those-who-want-to-start-a-small-project-but-cant-find-the-ideas">For those who want to start a small project but can't find the ideas</a></li>
-<li><a href="#-general-coding-advice">General Coding advice</a></li>
-<li><a href="#-coding-style">Coding Style</a></li>
-<li><a href="#-general-tools">General Tools</a></li>
-<li><a href="#-interview-preparation">Interview Preparation</a></li>
-<li><a href="#-documentaries">Documentaries</a></li>
-<li><a href="#-moocs-for-learning-something-new">MOOCs for learning something new</a></li>
-<li><a href="#-sites-related-to-your-preferred-programming-language-for-me-c">Sites related to your preferred programming language (For me C++)</a></li>
-<li><a href="#-learn-ai">Artificial Intelligence And Machine Learning</a></li>
-<li><a href="#-seminar-research-writing-talks-etc">Seminar , research writing , talks etc</a></li>
-<li><a href="#-everything-in-one-place">Everything in one place</a></li>
-<li><a href="#-youtube-channels">YouTube Channels</a></li>
-<li><a href="#-good-articles">Good Articles</a></li>
-<li><a href="#-bash-and-shell-scripting">Bash and Shell scripting</a></li>
-<li><a href="#-podcasts">Podcasts</a></li>
-<li><a href="#-building-a-simple-compilerinterpreter">Building a Simple Compiler/Interpreter</a></li>
-<li><a href="#-watch-others-code">Watch others code</a></li>
-<li><a href="#-tutorials">Tutorials</a></li>
-<li><a href="#-what-should-a-programmer-know">What should a programmer know</a></li>
-<li><a href="#-competitive-programming">Competitive programming</a></li>
-<li><a href="#-computer-books">Computer Books</a></li>
-<li><a href="#-video-tutorials">Video Tutorials</a></li>
-<li><a href="#-online-compiler-and-sharing-code-snippets">Online Compiler and Sharing Code snippets</a></li>
-<li><a href="#-blogs-of-developers">Blogs of Developers</a></li>
-<li><a href="#-for-improving-your-english">For improving your English</a></li>
-<li><a href="#-when-you-get-bored-from-cs-related-stuff">When you get bored from CS related stuff</a></li>
-<li><a href="#-open-source-websites">Open Source Websites</a></li>
-<li><a href="#-internships">Internships</a></li>
-<li><a href="#-jobs">Jobs</a></li>
+<ul id="index">
+<li><a href="#when-you-get-stuck">When you get stuck</a></li>
+<li><a href="#news">News</a></li>
+<li><a href="#magazines">Magazines</a></li>
+<li><a href="#coding-practice-for-beginners">Coding practice for beginners</a></li>
+<li><a href="#cryptocurrency">Cryptocurrency</a></li>
+<li><a href="#for-those-who-want-to-start-a-small-project-but-cant-find-the-ideas">For those who want to start a small project but can't find the ideas</a></li>
+<li><a href="#general-coding-advice">General Coding advice</a></li>
+<li><a href="#coding-style">Coding Style</a></li>
+<li><a href="#general-tools">General Tools</a></li>
+<li><a href="#interview-preparation">Interview Preparation</a></li>
+<li><a href="#documentaries">Documentaries</a></li>
+<li><a href="#moocs-for-learning-something-new">MOOCs for learning something new</a></li>
+<li><a href="#sites-related-to-your-preferred-programming-language-for-me-c">Sites related to your preferred programming language (For me C++)</a></li>
+<li><a href="#learn-ai">Artificial Intelligence And Machine Learning</a></li>
+<li><a href="#seminar-research-writing-talks-etc">Seminar , research writing , talks etc</a></li>
+<li><a href="#everything-in-one-place">Everything in one place</a></li>
+<li><a href="#youtube-channels">YouTube Channels</a></li>
+<li><a href="#good-articles">Good Articles</a></li>
+<li><a href="#bash-and-shell-scripting">Bash and Shell scripting</a></li>
+<li><a href="#podcasts">Podcasts</a></li>
+<li><a href="#building-a-simple-compilerinterpreter">Building a Simple Compiler/Interpreter</a></li>
+<li><a href="#watch-others-code">Watch others code</a></li>
+<li><a href="#tutorials">Tutorials</a></li>
+<li><a href="#what-should-a-programmer-know">What should a programmer know</a></li>
+<li><a href="#competitive-programming">Competitive programming</a></li>
+<li><a href="#computer-books">Computer Books</a></li>
+<li><a href="#video-tutorials">Video Tutorials</a></li>
+<li><a href="#online-compiler-and-sharing-code-snippets">Online Compiler and Sharing Code snippets</a></li>
+<li><a href="#blogs-of-developers">Blogs of Developers</a></li>
+<li><a href="#for-improving-your-english">For improving your English</a></li>
+<li><a href="#when-you-get-bored-from-cs-related-stuff">When you get bored from CS related stuff</a></li>
+<li><a href="#open-source-websites">Open Source Websites</a></li>
+<li><a href="#internships">Internships</a></li>
+<li><a href="#jobs">Jobs</a></li>
 </ul>
 
 ## ❓ When you get stuck
