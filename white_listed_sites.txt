@@ -16,6 +16,7 @@ https://www.subtle.press/course/poor-mans-ci
 learn.hackerearth.com
 medium.freecodecamp.com
 projecteuler.net
+phptherightway.com
 reddit.com
 regex101.com
 stroustrup.com
