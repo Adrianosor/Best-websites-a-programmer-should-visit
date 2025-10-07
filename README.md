@@ -923,6 +923,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Awesome First PR Opportunities](https://github.com/mungell/awesome-for-beginners) : An awesome repository for finding beginner-friendly projects in different programming languages.
 - [EddieHub Open source community](https://github.com/EddieHubCommunity) : A Supportive community for people who are interested or already contributing in Open source.
 - [MLH Fellowship prgramme](https://fellowship.mlh.io/):A fully remote, 12-week internship alternative where participants earn a stipend and learn to collaborate on real open source projects with peers and engineers from top companies.
+- [LavaForge](https://lavaforge.org/) : An independent Git hosting, CI, and static site hosting, an alternative to GitHub and GitLab that helps developers to create, collaborate, and share their projects with everyone.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
