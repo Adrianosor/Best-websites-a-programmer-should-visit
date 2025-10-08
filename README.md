@@ -112,6 +112,7 @@ When learning CS, there are some useful sites you must know to get always inform
 
 ## 👶 Coding practice for beginners
 - [Codedex - start your coding adventure](https://www.codedex.io) : Gamify your learning experience and have fun learning how to code!
+- [HackerRank](https://www.hackerrank.com) : Practice coding, prepare for interviews, and compete in programming contests across multiple domains.
 - [freeCodeCamp](https://www.freecodecamp.com) : Learn to code and build projects for nonprofits. Build your full stack web development portfolio today
 - [Blackbird School](https://blackbird.school) : Learn to code online with our beginner-friendly platform.
 - [Glitch](https://glitch.com/) : Great place to play around with code in an easy-to-set-up environment.
@@ -140,6 +141,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Scaler](https://www.scaler.com/topics/) : A curated interactive space for aspiring programmers to learn and master their coding skills. Also help in job interview.
 - [SQL Zoo](https://sqlzoo.net/wiki/SQL_Tutorial) : Learn SQL interactively in stages, from basic queries to complex operations.
 - [SQLTest.online](https://sqltest.online) : Boost Your SQL Proficiency with Challenging Problems.
+-[W3Schools](https://www.w3schools.com) : The world’s largest web developer site — learn HTML, CSS, JavaScript, Python, and more through interactive tutorials.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
