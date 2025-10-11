@@ -158,6 +158,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Lopp Bitcoin Resources](https://lopp.net/bitcoin.html) : Some Bitcoin Resources
 - [Mastering Bitcoin](https://www.oreilly.com/library/view/mastering-bitcoin/9781491902639/): Introduction to Bitcoin and tutorials to operate a full node
 - [Mempool](https://mempool.space): Bitcoin block explorer, mempool visualizer, transaction tracker, and fee estimator 
+- [Cyfrain](https://www.cyfrin.io/updraft): Beginner-friendly Web3 learning platform offering certification and hands-on blockchain education.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
