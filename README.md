@@ -233,7 +233,6 @@ When learning CS, there are some useful sites you must know to get always inform
 - [CoderPad](https://coderpad.io) : Quickly Conduct Coding Interviews and Phone Screen Interviews.
 - [CodePen](https://codepen.io) : Front End Developer Playground & Code Editor in the Browser
 - [CORS-Tester](https://cors-error.dev/cors-tester/) : A tool for developers and API testers to check if an API is CORS-enabled for a given domain and identify gaps
-- [ReqBin](https://reqbin.com/) : An online API testing tool for REST and SOAP APIs.
 - [Crontab Guru](https://crontab.guru/) : Quick and simple editor for cron schedule expressions
 - [Devicons](http://vorillaz.github.io/devicons/#/main) : Cheatsheet for devs icons
 - [Diagrams.net](https://app.diagrams.net/) : Drawing tools to make design and uml easily. Old draw.io
@@ -242,9 +241,10 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Imgur](https://imgur.com/) : Online image sharing and image hosting service.
 - [Kody Tools](https://www.kodytools.com/dev-tools): 100+ dev tools including code converters, formatters, and minifiers.
 - [Pyrexp](https://pythonium.net/regex) : Online regex tester and visualizer for Python.
+- [Ray.so](https://www.ray.so/): Beautiful code snippet screenshots.
 - [regex101](https://regex101.com) : Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript
 - [regexr](https://regexr.com) : Another online tool to learn, build & test Regular Expressions
-- [Ray.so](https://www.ray.so/): Beautiful code snippet screenshots.
+- [ReqBin](https://reqbin.com/) : An online API testing tool for REST and SOAP APIs.
 - [Prodia AI Image API](https://prodia.com/) : API for open sourced image models
 - [Wit AI](https://wit.ai) : Natural Language for Developers
 - [SaaS Design](https://www.saasdesign.io/free-figma-templates) : Collection of open source Figma UI design templates for your next project.
