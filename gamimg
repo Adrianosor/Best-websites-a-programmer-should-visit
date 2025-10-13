@@ -1,0 +1,26 @@
+services:
+  gitlab-ce:
+    name: GitLab-CE Local Container
+    description: A locally running GitLab instance, used for acceptance testing
+    triggeredBy:
+      - manual
+    commands:
+      start: SERVICE=gitlab-ce make testacc-up
+      stop: SERVICE=gitlab-ce make testacc-down
+        
+  gitlab-ee:
+    name: GitLab-EE Local Container
+    description: A locally running GitLab instance, used for acceptance testing
+    triggeredBy:
+      - manual
+    commands:
+      start: SERVICE=gitlab-ee make testacc-up
+      stop: SERVICE=gitlab-ee make testacc-down
+
+tasks:
+  getDependencies:
+    name: Get Golang Dependencies
+    description: Retrieves dependencies for the TF provider to prep the environment
+    triggeredBy:
+      - postEnvironmentStart
+    command: go get
