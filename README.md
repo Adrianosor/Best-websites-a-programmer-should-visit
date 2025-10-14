@@ -923,6 +923,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Awesome First PR Opportunities](https://github.com/mungell/awesome-for-beginners) : An awesome repository for finding beginner-friendly projects in different programming languages.
 - [EddieHub Open source community](https://github.com/EddieHubCommunity) : A Supportive community for people who are interested or already contributing in Open source.
 - [MLH Fellowship prgramme](https://fellowship.mlh.io/):A fully remote, 12-week internship alternative where participants earn a stipend and learn to collaborate on real open source projects with peers and engineers from top companies.
+- [RevEngi App](https://github.com/RevEngiSquad/revengi-app) : An open-source, cross-platform reverse engineering toolkit for app analysis, DEX repair, JNI/Flutter inspection, Smali reference, and local AI-assisted research.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
