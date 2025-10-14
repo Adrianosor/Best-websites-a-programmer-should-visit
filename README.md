@@ -140,6 +140,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Scaler](https://www.scaler.com/topics/) : A curated interactive space for aspiring programmers to learn and master their coding skills. Also help in job interview.
 - [SQL Zoo](https://sqlzoo.net/wiki/SQL_Tutorial) : Learn SQL interactively in stages, from basic queries to complex operations.
 - [SQLTest.online](https://sqltest.online) : Boost Your SQL Proficiency with Challenging Problems.
+- [CheckiO](https://checkio.org/) : A gamified coding platform where you solve missions in Python and TypeScript, learn from others’ solutions, and level up your skills.
+
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
