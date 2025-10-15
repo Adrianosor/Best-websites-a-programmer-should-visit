@@ -236,6 +236,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Crontab Guru](https://crontab.guru/) : Quick and simple editor for cron schedule expressions
 - [Devicons](http://vorillaz.github.io/devicons/#/main) : Cheatsheet for devs icons
 - [Diagrams.net](https://app.diagrams.net/) : Drawing tools to make design and uml easily. Old draw.io
+- [Excalidraw](https://excalidraw.com/) : An online whiteboard very helpful for technical planning, design interviews, and illustrate ideas for pair programmings or Spikes. 
 - [FreeFor.Dev](https://free-for.dev/#/) : A huge list of free resources and tools
 - [Hotkey Cheatsheet](https://hotkeycheatsheet.com) : A comprehensive hotkey cheatsheet for popular software and applications
 - [Imgur](https://imgur.com/) : Online image sharing and image hosting service.
