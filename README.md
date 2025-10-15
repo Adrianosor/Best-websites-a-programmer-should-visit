@@ -540,10 +540,12 @@ When learning CS, there are some useful sites you must know to get always inform
 - [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) : freecodecamp youtube channel
 - [Bo Qian](https://www.youtube.com/channel/UCEOGtxYTB6vo6MQ-WQ9W_nQ) : Learn advanced c++
 - [Geeksforgeeks](https://www.youtube.com/channel/UC0RhatS1pyxInC00YKjjBqQ/videos) : geeksforgeeks youtube
+- [Gregg Hogg](https://www.youtube.com/@GregHogg) : Gregg Hogg youtube
 - [Hacker earth](https://www.youtube.com/channel/UCYU6nvKyRYnE5kiG9JXkXpA) : Hacker earth youtube
 - [Hak5](https://www.youtube.com/user/Hak5Darren) : Put together by a band of IT ninjas, security professionals, and hardcore gamers, Hak5 isn't your typical tech show. We take on hacking in the old-school sense.
 - [Khan Academy](https://www.youtube.com/channel/UC4a-Gbdw7vOaccHmFo40b9g) : Khan Academy youtube
 - [LearnCode.academy](https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw) : 100% FREE Web Development tutorials, web site design tutorials, and more. Including, but not limited to: HTML, CSS, JavaScript, CSS Layouts, Responsive Design, React.js, Node.js, Angular.js, Docker, Dev
+- [Programming with Mosh](https://www.youtube.com/@programmingwithmosh) : Programming With Mosh youtube
 - [Rachit Jain](https://www.youtube.com/channel/UC9fDC_eBh9e_bogw87DbGKQ/featured) : competitive programming
 - [sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ) : Python Programming tutorials, going further than just the basics. Learn about machine learning, finance, data analysis, robotics, web development, game development, and more.
 - [Steve Griffith](https://www.youtube.com/channel/UCTBGXCJHORQjivtgtMsmkAQ) : The videos on this channel are largely about web design & development with a good dose of mobile development thrown in just for fun. 
