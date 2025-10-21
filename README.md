@@ -470,6 +470,27 @@ When learning CS, there are some useful sites you must know to get always inform
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
+
+## Security & hands-on practice
+A short curated list of resources for learning cybersecurity, practising skills, and joining CTFs / labs.
+
+- [TryHackMe](https://tryhackme.com) — beginner-friendly guided cyber range and labs (great for newcomers; many learning paths and Capture The Flag-style rooms).  
+- [Hack The Box](https://www.hackthebox.com) — hands-on penetration testing labs and pro-style machines; good for intermediate/advanced practice and career-building.  
+- [OverTheWire](https://overthewire.org) — classic wargames (Bandit, Narnia, etc.) for learning fundamentals like Linux, networking and binary exploitation.  
+- [VulnHub](https://www.vulnhub.com) — downloadable vulnerable VMs to practice offline or in your own lab; great for emulating real-world pentesting scenarios.  
+- [PortSwigger Web Security Academy](https://portswigger.net/web-security) — excellent free interactive training for web security and manual exploitation techniques (includes labs).  
+- [OWASP](https://owasp.org) — resources, cheat-sheets, and the top-10 list for web security risks; essential reading for secure development.  
+- [CTFtime](https://ctftime.org) — central calendar and ranking site for CTF competitions worldwide; good to find events and teams.  
+- [picoCTF](https://picoctf.org) — beginner-friendly CTF (school-age friendly) with well-structured challenges and learning paths.  
+- [Hacker101 / HackerOne](https://www.hacker101.com) — web security lessons and a bounty program ecosystem; useful if you want to learn bug bounties.  
+- [TryHackMe Blog & Writeups / HTB Writeups] — follow community walkthroughs and write-ups (search respective platforms) to learn methodologies and tools.  
+
+---
+
+<div align="right">
+  <b><a href="#index">↥ Back To Top</a></b>
+</div>
+
 ## 📢 Seminar, research writing, talks, etc
 - [Advice on Research and Writing](http://www.cs.cmu.edu/~mleone/how-to.html) : A collection of advice about how to do research and how to communicate effectively (primarily for computer scientists).
 - [PHD MS Articles](http://www.cse.iitd.ac.in/~srsarangi/articles.html) : articles and views
