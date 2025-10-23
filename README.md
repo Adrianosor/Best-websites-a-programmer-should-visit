@@ -477,6 +477,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Latex reference](http://latex.knobs-dials.com) : Arbitrary reference
 - [Begin Latex in minutes](https://github.com/LewisVo/Begin-Latex-in-minutes) : Brief Intro to LaTeX for beginners that helps you use LaTeX with the ease
 - [Lshort](https://tobi.oetiker.ch/lshort/lshort.pdf) : The Not So Short Introduction to LATEX2ε
+- [FastCode Seminar](https://fastcode.org/events/fastcode-seminar/) : A monthly series covering topics in performance engineering
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
