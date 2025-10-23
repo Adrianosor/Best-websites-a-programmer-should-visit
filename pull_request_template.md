@@ -1,15 +1,34 @@
-## Summary of your changes
+## Description
 
-### Description
+<!-- Provide a clear summary of your changes and the problem it solves -->
+<!-- Example: Fixes #123 - Adds TypeScript support for better type safety -->
 
-<!--- Please include a summary of the changes and the related issue. -->
-<!--- If your changes closes an issue ticket, please refer it as: Fixes #<number> -->
+## Type of Change
 
-### Checklist
+<!-- Mark the applicable option with an "x" -->
 
-<!--- Please mark all options that apply to your case. -->
+- [ ]  Bug Fix (non-breaking change that fixes an issue)
+- [ ]  New Feature (non-breaking change that adds functionality)
+- [ ]  Breaking Change (fix or feature that would break existing functionality)
+- [ ]  Documentation Update
+- [ ]  Style/Cosmetic Improvement
+- [ ]  Code Refactoring
 
-- [ ] My change follows the [Contributing Guidelines](./CONTRIBUTING.md)
-- [ ] I have added only one new link to the list.
-- [ ] I have checked that the link that I added does NOT exist in the project already.
-- [ ] I have sorted the link alphabetically under the related section.
+## Checklist
+
+<!-- Verify all requirements before submitting -->
+
+- [ ]  My code follows the project's [Contributing Guidelines](./CONTRIBUTING.md)
+- [ ]  I've added only one new link/resource
+- [ ]  I've verified my new link doesn't already exist in the project
+- [ ]  I've alphabetically sorted the new entry in its section
+- [ ]  I've updated relevant documentation (if applicable)
+- [ ]  My changes don't introduce any security vulnerabilities
+
+## Screenshots (if applicable)
+
+<!-- Visual evidence for UI-related changes -->
+
+## Additional Notes
+
+<!-- Any extra context, technical decisions, or open questions -->
