@@ -140,12 +140,14 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Scaler](https://www.scaler.com/topics/) : A curated interactive space for aspiring programmers to learn and master their coding skills. Also help in job interview.
 - [SQL Zoo](https://sqlzoo.net/wiki/SQL_Tutorial) : Learn SQL interactively in stages, from basic queries to complex operations.
 - [SQLTest.online](https://sqltest.online) : Boost Your SQL Proficiency with Challenging Problems.
+- [Seeing Theory](https://seeing-theory.brown.edu/) : If you want to learn more about statistics.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
 
 ## 💰 CryptoCurrency
+-[Blockchain working](https://andersbrownworth.com/blockchain/):If you want to understand about blokchian and its basics with a working demo this will be a great start
 - [Blockchain Basics](https://www.sitepen.com/blog/2017/09/21/blockchain-basics/) : Great introduction to blockchain
 - [Blockchain demo](https://blockchaindemo.io/) : A visual demo of Blockchain technology
 - [Build a blockchain in Python](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46) : Learn Blockchains by Building One
@@ -158,6 +160,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Lopp Bitcoin Resources](https://lopp.net/bitcoin.html) : Some Bitcoin Resources
 - [Mastering Bitcoin](https://www.oreilly.com/library/view/mastering-bitcoin/9781491902639/): Introduction to Bitcoin and tutorials to operate a full node
 - [Mempool](https://mempool.space): Bitcoin block explorer, mempool visualizer, transaction tracker, and fee estimator 
+-[]
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -958,6 +961,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Paysa](https://www.paysa.com) : Paysa helps you in finding new and interesting jobs according to your wish.
 - [SimplyHired](https://www.simplyhired.com) : Simply Hired is a free job search engine (and mobile app) that takes the hassle out of getting hired and provides you with all the information you need to make a sound career move.
 - [SwissDev Jobs](https://swissdevjobs.ch) : Tech job board for Software Engineers that want to work in Switzerland.
+
 - [Undercover Recruiter](https://theundercoverrecruiter.com) : Become Recruiter,
   Candidate or Employer. You can get your job easily here.
 - [Who is Hiring](https://whoishiring.io) : An awesome resource for searching,
@@ -968,6 +972,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [GermanTech Jobs](https://germantechjobs.de/) : Dedicated job board for tech roles in Germany - with salary brackets
 - [We Work Remotely](https://weworkremotely.com/) : The largest remote work community in the world.
 - [OkJob](https://okjob.io/) : 4 day week job board.
+
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
