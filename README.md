@@ -768,6 +768,7 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## 🔴 Video Tutorials
+- [Abdul Bari](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O) : A comprehensive and highly recommended YouTube playlist by Abdul Bari for learning algorithms from the ground up.
 - [Aditya Verma](https://www.youtube.com/channel/UC5WO7o71wvxMxEtLRkPhiQQ): Algorithm tutorials playlists by an Indian youtuber Aditya verma.
 - [codedamn](https://www.youtube.com/channel/UCJUmE61LxhbhudzUugHL2wQ/videos) : front end web dev tutorials
 - [Code School](https://www.codeschool.com) : A PluralSight Company and an Interactive learning destination for aspiring and experienced Developers
