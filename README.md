@@ -762,6 +762,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [The GraphQL Guide](https://graphql.guide) : The complete guide to GraphQL, the new REST ✨
 - [Eloquent JavaScript](https://eloquentjavascript.net/) : A book about JavaScript, programming, and the wonders of the digital.
 - [programmingbooks.dev](https://www.programmingbooks.dev) : An Ordered and Curated Reading List for Software Craftsmanship Growth.
+- [Operating Systems: Three Easy Pieces (OSTEP)](https://pages.cs.wisc.edu/~remzi/OSTEP/) — A fantastic free textbook to learn operating system concepts.
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
