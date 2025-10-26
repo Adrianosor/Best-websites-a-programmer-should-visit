@@ -202,6 +202,7 @@ When learning CS, there are some useful sites you must know to get always inform
 
 ## 🎨 Coding Style
 - [Airbnb JS Style Guide](https://github.com/airbnb/javascript) : A mostly reasonable approach to JavaScript
+- [AngularJS Style Guide](https://github.com/mgechev/angularjs-style-guide) : Opinionated AngularJS style guide by Miško Hevery (mgechev)
 - [Airbnb Ruby Style Guide](https://github.com/airbnb/ruby) : A Ruby style guide by Airbnb
 - [Ruby coding style guide](https://github.com/bbatsov/ruby-style-guide) : A community-driven Ruby coding style guide
 - [Angular 1 Style Guide](https://github.com/johnpapa/angular-styleguide/tree/master/a1) : Officially endorsed style guide by John Pappa
