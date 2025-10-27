@@ -406,6 +406,7 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## 🧑‍💻 Sites related to your preferred programming language (For me C++)
+- [100 Exercises To Learn Rust](https://rust-exercises.com/100-exercises/) : collection of 100 progressively challenging exercises with a CLI verifier tool (wr), available in-browser or PDF.
 - [Best books for learning java must read](https://javahungry.blogspot.com/2014/02/best-books-for-learning-java-must-read.html) : Get basics of Java
 - [Bjarne Stroustrup's C++ Style and Technique FAQ](http://www.stroustrup.com/bs_faq2.html) : The C++ FAQ
 - [Bjarne Stroustrup's FAQ](http://www.stroustrup.com/bs_faq.html) : The C++ FAQ
