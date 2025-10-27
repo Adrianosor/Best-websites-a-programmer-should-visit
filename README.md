@@ -436,9 +436,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [JavatPoint](https://www.javatpoint.com/java-tutorial) : Best website to get a basic Java programming tutorial
 - [The Rust Programming Language Book](https://doc.rust-lang.org/book/title-page.html) : Explains the Rust programming language
 - [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/intro.html#cookin-with-rust) : Quickly get an overview of the capabilities of the Rust crate ecosystem
-
 - [Getting start with python](https://riptutorial.com/ebook/python) : A-Z python programming concepts and methods.
-
 - [Rust by Example](https://doc.rust-lang.org/rust-by-example/) : A collection of runnable examples that illustrate various Rust concepts and standard libraries
 
 
@@ -672,6 +670,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [OS Course Notes](https://www2.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/) : Chapter-wise course notes according to Galvin's book
 - [Programming, Web Development, and DevOps news, tutorials, and tools for beginners to experts](https://dzone.com)
 - [Prompt engineering](https://www.promptingguide.ai/) : Prompting Guide AI is an online resource that helps users learn and craft effective prompts for AI models to generate better and more relevant outputs.
+- [Comprehensive Rust](https://google.github.io/comprehensive-rust/) : free RUST tutorial covering syntax, ownership, generics, error handling and concurrency with slides and exercises.
 - [Stanford Programming Course](https://see.stanford.edu/Course/CS106A) : Full, free CS course created by Stanford
 - [SQL (Structured Query Language) in one page : SQL.SU](http://www.cheat-sheets.org/sites/sql.su/) : a very good SQL cheat sheet
 - [Subtle/Poor Man's CI](https://www.subtle.press/course/poor-mans-ci) : Learn how continuous integration platforms work under the hood, by building one of your own on top of git with Node.js
