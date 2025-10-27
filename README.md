@@ -137,6 +137,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Oh Shit, Git!?!](https://ohshitgit.com/) : Cheat sheet to get yourself out of bad git situations
 - [The Odin Project](https://www.theodinproject.com/home) : The Odin Project provides a free open source coding curriculum that can be taken entirely online.
 - [Udemy](https://www.udemy.com/) : Whether you want to learn or to share what you know, you’ve come to the right place. As a global destination for online learning, we connect people through knowledge.
+- [Rustfinity](https://www.rustfinity.com/) : browser-based interactive exercises for RUST basics, no setup needed—ideal for beginners or quick practice sessions
 - [Scaler](https://www.scaler.com/topics/) : A curated interactive space for aspiring programmers to learn and master their coding skills. Also help in job interview.
 - [SQL Zoo](https://sqlzoo.net/wiki/SQL_Tutorial) : Learn SQL interactively in stages, from basic queries to complex operations.
 - [SQLTest.online](https://sqltest.online) : Boost Your SQL Proficiency with Challenging Problems.
@@ -406,6 +407,7 @@ When learning CS, there are some useful sites you must know to get always inform
 </div>
 
 ## 🧑‍💻 Sites related to your preferred programming language (For me C++)
+- [100 Exercises To Learn Rust](https://rust-exercises.com/100-exercises/) : collection of 100 progressively challenging exercises with a CLI verifier tool (wr), available in-browser or PDF.
 - [Best books for learning java must read](https://javahungry.blogspot.com/2014/02/best-books-for-learning-java-must-read.html) : Get basics of Java
 - [Bjarne Stroustrup's C++ Style and Technique FAQ](http://www.stroustrup.com/bs_faq2.html) : The C++ FAQ
 - [Bjarne Stroustrup's FAQ](http://www.stroustrup.com/bs_faq.html) : The C++ FAQ
@@ -434,9 +436,9 @@ When learning CS, there are some useful sites you must know to get always inform
 - [what-is-garbage-collection](https://downloads.plumbr.io/Plumbr%20Handbook%20Java%20Garbage%20Collection.pdf) : Demystify the garbage collection
 - [JavaWorld](https://www.javaworld.com) : Welcome to Javaworld
 - [JavatPoint](https://www.javatpoint.com/java-tutorial) : Best website to get a basic Java programming tutorial
+- [Rust for C#/.NET Developers](https://microsoft.github.io/rust-for-dotnet-devs/latest/) : guide for C# and .NET developers that are completely new to the Rust programming language.  
 - [The Rust Programming Language Book](https://doc.rust-lang.org/book/title-page.html) : Explains the Rust programming language
 - [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/intro.html#cookin-with-rust) : Quickly get an overview of the capabilities of the Rust crate ecosystem
-
 - [Getting start with python](https://riptutorial.com/ebook/python) : A-Z python programming concepts and methods.
 
 - [Rust by Example](https://doc.rust-lang.org/rust-by-example/) : A collection of runnable examples that illustrate various Rust concepts and standard libraries
