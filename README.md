@@ -723,6 +723,7 @@ When learning CS, there are some useful sites you must know to get always inform
 ## ⚔️  Competitive programming
 - [Topic Wise Problem For Competitive Programmer](https://a2oj.com/categories) : Topic wise Practise Problem
 - [Advent of Code](https://adventofcode.com) : An Advent calendar of small programming puzzles
+- [Algorithms for competitive programming](https://cp-algorithms.com/index.html) : The goal of this project is to translate the wonderful resource https://e-maxx.ru/algo which provides descriptions of many algorithms and data structures especially popular in field of competitive programming.
 - [Archived Problems - Project Euler](https://projecteuler.net/archives) : Problems Archives
 - [Art of Problem Solving](https://artofproblemsolving.com) : Is math class too easy for you? You've come to the right place!
 - [AtCoder](https://atcoder.jp/) : One of the best places to build competitive programming skills for beginners to experts.
