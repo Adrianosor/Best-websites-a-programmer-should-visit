@@ -746,6 +746,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [WakaTime](https://wakatime.com) : leaderboards of coding metrics collected via editor plugins
 - [PrepBytes](https://mycode.prepbytes.com/competitive-coding/practice) : Topic and level wise proper arrange problems 
 - [A2OJ Ladders](https://a2oj.com/Ladders.html) : Practice codeforces problems based on your proficiency and difficulty
+- [CSES Problemset](https://cses.fi/problemset/) : Best Topicwise Problems for Practice 
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -932,7 +933,6 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Chegg](http://www.chegg.com) : It is an awesome resource for finding internships, scholarships, tutors, etc.
 - [Internshala](https://internshala.com) : You can search for internships here according to your skill sets for your interested location. It also helps you in getting a good PPO offer from the company.
 - [Letsintern](https://www.letsintern.com) : Get a smart and challenging internship for you from the LetsIntern.
-- [PerfectIntern](https://www.perfectintern.com): Get help finding a paid internship, resume prep, interview prep, and more!
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
