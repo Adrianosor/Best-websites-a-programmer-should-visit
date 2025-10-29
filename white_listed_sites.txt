@@ -15,6 +15,7 @@ https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-practice-prob
 https://www.subtle.press/course/poor-mans-ci
 learn.hackerearth.com
 medium.freecodecamp.com
+phptherightway.com
 projecteuler.net
 reddit.com
 regex101.com
