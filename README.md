@@ -853,6 +853,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Programming in the 21st Century](http://prog21.dadgum.com) : programming in the twenty-first century
 - [rudhakar Rayavaram](http://sudhakar.online) : Sudhakar Rayavaram Blog's
 - [Runhe Tian Coding Practice](https://tianrunhe.wordpress.com) : Technical interview questions from Apple, Google, Facebook, Amazon, and Microsoft
+- [Simon Willison](https://simonwillison.net/) : Blog's by Simon Willison. Includes a buch of cool development topics and AI.
 - [Small Programming Challenges and Puzzles](https://www.nayuki.io/category/programming) : Project Nayuki
 - [stevehanov.ca](http://stevehanov.ca/blog/) : I know how to make and sell software online, and I can share my tips with you.
 - [Takipi Blog](http://blog.takipi.com) : mainly focuses on Java and JVM languages
