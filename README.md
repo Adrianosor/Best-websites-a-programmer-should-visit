@@ -96,7 +96,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Hashnode](https://hashnode.com/) : Hashnode is a friendly and inclusive community for software developers
 - [Rekt](https://rekt.news/) : A journalism related to Defi, Web3, Blockchain and security on them.
 - [Hackaday](https://hackaday.com) : Hacking is an art form that uses something in a way in which it was not originally intended.
-
+- [chatgpt](https://chatgpt.com/) : it help in everyfield
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
