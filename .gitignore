@@ -1,0 +1,31 @@
+# --- Environment and secrets ---
+.env
+.env.local
+.env.*.local
+*.key
+*.pem
+*.p12
+secrets/
+config/secrets.yml
+
+# --- OS files ---
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+*.orig
+
+# --- Jekyll / GitHub Pages ---
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+Gemfile.lock
+vendor/
+
+# --- IDE ---
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace

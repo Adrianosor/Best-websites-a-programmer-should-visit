@@ -6,6 +6,10 @@ on:
   schedule:
     - cron: '0 0 * * 1' # Weekly scan on Mondays
 
+permissions:
+  contents: read
+  security-events: write
+
 jobs:
   gitleaks:
     uses: juninmd/base-actions/.github/workflows/reusable-security-scan.yml@main
