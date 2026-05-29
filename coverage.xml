@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<coverage line-rate="1.0" branch-rate="1.0">
+    <sources>
+        <source>.</source>
+    </sources>
+    <packages>
+    </packages>
+</coverage>

@@ -5,6 +5,8 @@
 </h1>
 
 # Best-websites-a-programmer-should-visit
+
+![CI/CD Pipeline](https://github.com/juninmd/Best-websites-a-programmer-should-visit/actions/workflows/ci.yml/badge.svg)
 Some useful websites for programmers.
 
 When learning CS there are some useful sites you must know to get always informed in order to do your technologies eve and learn new things. Here is a non exhaustive list of some sites you should visit, this list will get updated as soon as I can get another link, but you can also contribute by adding those you know :wink:
@@ -393,3 +395,13 @@ When learning CS there are some useful sites you must know to get always informe
   * [Hacktoberfest](https://hacktoberfest.digitalocean.com) : Hacktoberfest encourages participation in the open source community, which grows bigger every year.
 
   ___Maintained with :heart: by sdmg15 & al___
+
+## Build and Deployment
+
+This repository uses GitHub Actions for CI/CD. The pipeline includes:
+- Linting of markdown files
+- Testing to ensure required files exist
+- Building documentation artifacts
+- Deployment to GitHub Pages (when merged to main branch)
+
+To contribute to this project, please follow the guidelines in CONTRIBUTING.md.
